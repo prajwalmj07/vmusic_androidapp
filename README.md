@@ -1,3 +1,3 @@
 # vmusic 
 
-A simple music player with a good UI design
+A simple music player with a good UI design.
